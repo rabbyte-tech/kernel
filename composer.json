@@ -1,9 +1,9 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "rabbytetech/kernel",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
+    "description": "Rabbyte Kernel",
+    "keywords": ["rabbyte", "rabbytetech", "kernel"],
     "license": "MIT",
     "require": {
         "php": "^8.2",
